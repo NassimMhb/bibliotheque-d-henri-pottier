@@ -2,7 +2,7 @@
   "name": "bibliotheque-henri-pottier",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/NassimMhb/bibliotheque-d-henri-pottier",
+  "homepage": "https://app.herokuapp.com/",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "react": "^16.5.2",
