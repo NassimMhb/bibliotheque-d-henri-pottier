@@ -2,7 +2,11 @@
 
 Site web de e-commerce réalisé avec ReactJS
 
-## Lancement du projet
+## Démo de l'application
+
+https://bibliotheque-d-henri-pottier.herokuapp.com/
+
+### Lancement du projet
 ```
   npm install
 ```
